@@ -4,7 +4,7 @@ import { logo } from "../../assets/index";
 import navData from "../../constants";
 const NavBar = () => {
   return (
-    <div className="w-full h-20 mx-auto flex justify-between items-center ">
+    <div className="w-full h-20 sticky top-0 z-50 bg-bodyColor mx-auto flex justify-between items-center border-b-[1px] border-b-lightText">
       <div>
         <img className="rounded-3xl h-12" src={logo} alt="logo" />
       </div>

@@ -3,3 +3,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.active {
+  color: white;
+  font-weight: 800;
+}
