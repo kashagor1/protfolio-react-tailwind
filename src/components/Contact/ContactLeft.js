@@ -17,7 +17,7 @@ const ContactLeft = () => {
         </p>
         <p className="">
           Phone:{" "}
-          <span className="text-white text-opacity-80">+968 97859628</span>
+          <span className="text-white text-opacity-80">+880 1311857092</span>
         </p>
         <p className="">
           Email:{" "}
@@ -30,13 +30,19 @@ const ContactLeft = () => {
         <p className="text-md my-4 font-thin text-gray-200 ">FIND ME IN</p>
         <div className="flex gap-4 pt-2">
           <span className="bannerIcon">
-            <FaFacebookF />
+            <a href="#">
+              <FaFacebookF />
+            </a>
           </span>
           <span className="bannerIcon">
-            <FaTwitter />
+            <a href="#">
+              <FaTwitter />
+            </a>
           </span>
           <span className="bannerIcon">
-            <FaLinkedinIn />
+            <a href="#linkedin">
+              <FaLinkedinIn />
+            </a>
           </span>
         </div>
       </div>
