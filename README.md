@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A simple react protfolio app demonstration with tailwind css
+This project is created just cause i intended to make a simple but yet effective one page portfolio app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
